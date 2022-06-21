@@ -7,10 +7,81 @@
   <title>Figuras Geometricas</title>
 </head>
 <body>
-  <h1>
-    Figuras Geometricas
-  </h1>
+  <header>
+    <h1>
+      Figuras Geometricas
+    </h1>
+
+    <p>Este es el primer Taller del curso Practico de JS </p>
+
+    <section>
+      <h2>Calcula el Area y perimetro de un Cuadrado</h2>
+
+      <form action="">
+        <label for="InputCuadrado">
+          Escribe cuanto mide cada lado de tu cuadrado:
+        </label>
+
+        <input id= "InputCuadrado" type="number">
+
+        <button type="button" onclick="calcularPerimetroCuadrado()">
+          Calcular perimetro 
+        </button>
+
+        <button type="button" onclick="calcularAreaCuadrado()">
+          Calcular Area
+        </button>
+      </form>
+    </section>
+
+    
+    <section>
+      <h2>Calcula el Area y perimetro de un Triangulo</h2>
+
+      <form action="">
+        <label for="InputTriangulo">
+          Escribe cuanto mide cada lado de tu Triangulo:
+        </label>
+
+        Lado A <input id= "ladoA" type="number">
+        Lado B <input id= "ladoB" type="number">
+        Base <input id= "base" type="number">
+        Altura <input id= "altura" type="number">
+
+        <button type="button" onclick="calcularPerimetroTriangulo()">
+          Calcular perimetro 
+        </button>
+
+        <button type="button" onclick="calcularAreaTriangulo()">
+          Calcular Area
+        </button>
+      </form>
+    </section>
+
+    <section>
+      <h2>Calcula el Area y perimetro de un Circulo</h2>
+
+      <form action="">
+        <label for="radio">
+          Escribe cuanto mide el radio de tu Circulo:
+        </label>
+
+        <input id= "radio" type="number">
+
+        <button type="button" onclick="calcularPerimetroCirculo()">
+          Calcular perimetro 
+        </button>
+
+        <button type="button" onclick="calcularAreaCirculo()">
+          Calcular Area
+        </button>
+      </form>
+    </section>
+
+  </header>
   
+
+
   <script src="./figuras.js"></script>
 </body>
 </html>
