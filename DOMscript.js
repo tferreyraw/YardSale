@@ -12,3 +12,5 @@ function btnOnclink() {
   console.log(`La suma es ${suma}`);
   result.innerText = `El resultado es ${suma}`;
 }
+
+/////////////////////////////////
