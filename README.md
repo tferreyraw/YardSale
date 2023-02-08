@@ -8,7 +8,6 @@ Herramientas utilizadas:
 
 - 🟠HTML
 - 🟢 CSS3
-- 🟣Bootstrap
 - 🟡JAVASCRIPT
 
 Habilidades a mostrar en el proyecto:
