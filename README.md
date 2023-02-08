@@ -12,11 +12,13 @@ Herramientas utilizadas:
 
 Habilidades a mostrar en el proyecto:
 
-- Manejo de HTML y CSS3
-- Manejo de Bootstrap para ajustar los estilos
+- Maquetacion con HTML 
+- Manejo de CSS3 para ajustar los estilos
 - Manipulación del DOM con Javascript para apuntar a los diferentes elementos del HTML
 - Crear elementos HTML desde Javascript
 - Manejo de eventos con Javascript
+- Manipulacion de Arrays
 - Interacciones entre los diferentes elementos
+
 
 [Link a la WEB](https://tferreyraw.github.io/YardSale/)
