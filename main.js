@@ -183,7 +183,7 @@ producList.push({
   image:
     "https://static.fnac-static.com/multimedia/Images/ES/MC/2c/bd/80/8437036/1540-1/tsp20200703090731/Monociclo-Electrico-Kingsong-KS-16S-420-wh-blanco.jpg#e4db073f-0302-4eb4-aabf-817e45f10608",
   description:
-    "El monociclo eléctrico KingSong 14D ha resistido la prueba del tiempo como una rueda de nivel confiable que aún se mantiene firme frente a la competencia en la actualidad. Con un motor de 800w, alojado en una rueda de 14″ que puede superar los 25 km/h, la KingSong 14D es perfecta para principiantes que quieren crecer o para cualquiera que quiera explorar el mundo de las ruedas más compactas como la Inmotion V5F.",
+    "Monociclo eléctrico KingSong 14D. Con un motor de 800w, alojado en una rueda de 14″ que puede superar los 25 km/h, la KingSong 14D es perfecta para principiantes que quieren crecer o para cualquiera que quiera explorar el mundo de las ruedas más compactas como la Inmotion V5F.",
 });
 
 function renderProducts(arr) {
@@ -228,29 +228,3 @@ function renderProducts(arr) {
 }
 
 renderProducts(producList);
-
-////////////////////////////////////////////
-
-{
-  /* <aside class="product-detail-secondary inactive">       cardsContainer
-      <div class="product-detail-close-secondary">
-        <img src="./icons/icon_close.png" alt="close" />
-      </div>
-      <img         image 
-        src="https://http2.mlstatic.com/D_NQ_NP_990986-MLA53586520581_022023-O.webp"
-        alt="Bicicleta"
-      />
-      <div class="product-info-secondary">    div
-        <p>$120,00</p>    infoPrice
-        <p>Bike</p>      infoName
-        <p>
-          With its practical position, this bike also fulfills a decorative
-          function, add your hall or workspace.
-        </p>
-        <button class="primary-button-secondary add-to-cart-button-secondary">
-          <img src="./icons/bt_add_to_cart.svg" alt="add to cart" />
-          Add to cart
-        </button>
-      </div>
-</aside> */
-}
