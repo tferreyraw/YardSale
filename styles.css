@@ -169,12 +169,12 @@ nav {
   background-color: var(--white);
   border: 1px solid var(--very-light-pink);
   border-top: 0px;
-  border-radius: 0 0 6px 6px;
   width: 360px;
   padding: 0 24px 24px 24px ;
   box-sizing: border-box;
   position: absolute;
   right: 0;
+  border-radius: 0 0 6px 6px;
   box-shadow: 5px 5px 10px var(--very-light-pink);
 }
 .title-container {
@@ -288,14 +288,18 @@ nav {
   margin-top: 0;
   margin-bottom: 0;
   color: var(--very-light-pink);
+  font-weight: bold;
 }
 
 /*DETALLE DE PRODUCTO*/
 .product-detail-secondary {
   width: 360px;
-  padding-bottom: 24px;
+  padding: 10px 0;
   position: absolute;
   right: 0;
+  border-radius: 0 0 6px 6px;
+  box-shadow: 5px 5px 10px var(--very-light-pink);
+  background-color: var(--white);
 }
 .product-detail-close-secondary {
   background: var(--white);
@@ -325,15 +329,17 @@ nav {
   font-size: var(--md);
   margin-top: 0;
   margin-bottom: 4px;
+  
 }
 .product-info-secondary p:nth-child(2) {
-  color: var(--very-light-pink);
+  color: var(--hospital-green);
   font-size: var(--md);
   margin-top: 0;
   margin-bottom: 36px;
+  font-weight: bold;
 }
 .product-info-secondary p:nth-child(3) {
-  color: var(--very-light-pink);
+  color: var(--hospital-green);
   font-size: var(--sm);
   margin-top: 0;
   margin-bottom: 36px;
@@ -367,7 +373,7 @@ nav {
     display: none;
   }
   
-  .product-detail, .product-detail-secondary {
+  .product-detail, .pproduct-detail-secondary {
     width: 100%;
   }
   .cards-container {
