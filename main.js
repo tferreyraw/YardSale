@@ -92,98 +92,212 @@ const producList = [];
 producList.push({
   name: "Bicicleta",
   price: "$120",
-  image:
-    "https://http2.mlstatic.com/D_NQ_NP_990986-MLA53586520581_022023-O.webp",
+  image: "./assets/bike.png",
   description:
     "Licorne Bike Bicicleta de trekking prémium de 28 pulgadas, para hombres, jóvenes, mujeres y hombres, 21 velocidades, bicicleta de ciudad para hombre, Life M-V-ATB",
 });
 producList.push({
   name: "Motoneta",
   price: "$250",
-  image:
-    "https://media.istockphoto.com/id/1225448373/es/foto/kick-city-rider-bike-scooter-el%C3%A9ctrico-urbano-aislado-sobre-fondo-blanco-motocicleta-de-la.jpg?s=612x612&w=0&k=20&c=zcbplIeCpcNBYSr9xZj42Frvk4PB3enLv1VOHgmb238=",
+  image: "./assets/motorbike.png",
   description:
     "Better Angel HM Moto Eléctrica Infantil Scooter Eléctrico - Coche Triciclo Moto ​Eléctrica ​Infantil, Motocicleta Eléctrica para Niños, Moto Cross Scooter, Moto Eléctrica para Niños Motorbike",
 });
 producList.push({
   name: "Scooter electrico",
   price: "$200",
-  image:
-    "https://vendomarket.cl/wp-content/uploads/2021/08/108563-1-scaled-1.jpg",
+  image: "./assets/scooter.png",
   description:
     "Xiaomi Mi Electric Scooter Essential, 12 mph de Velocidad máxima, 12 Millas de Distancia de Viaje, 250 W de Potencia del Motor, versión Oficial del Reino Unido, Negro, Adulto",
 });
 producList.push({
   name: "Skate",
   price: "$200",
-  image:
-    "https://st4.depositphotos.com/3539679/23945/v/600/depositphotos_239454032-stock-illustration-skateboarding-vector-realistic-3d-black.jpg",
+  image: "./assets/skate.png",
   description:
     "Skateboard para Principiantes niños y Adultos 79 X 20 cm diseño Tigre, monopatín Completo de 9 Capas de Madera de Arce para niños y niñas con rodamientos ABEC-7 y Herramienta en T Animal Skateboards",
 });
 producList.push({
   name: "Rollers",
   price: "$350",
-  image:
-    "https://http2.mlstatic.com/D_NQ_NP_816691-MLA46990826237_082021-O.jpg",
+  image: "./assets/rollers.png",
   description:
     "Patines en línea y patín de Hielo, 2 en 1 Advance Ajustables y modificables RAVEN",
 });
 producList.push({
   name: "OneWheel",
   price: "$600",
-  image:
-    "https://static.fnac-static.com/multimedia/Images/ES/MC/2c/bd/80/8437036/1540-1/tsp20200703090731/Monociclo-Electrico-Kingsong-KS-16S-420-wh-blanco.jpg#e4db073f-0302-4eb4-aabf-817e45f10608",
+  image: "./assets/onewheel.png",
   description:
     "El monociclo eléctrico KingSong 14D ha resistido la prueba del tiempo como una rueda de nivel confiable que aún se mantiene firme frente a la competencia en la actualidad. Con un motor de 800w, alojado en una rueda de 14″ que puede superar los 25 km/h, la KingSong 14D es perfecta para principiantes que quieren crecer o para cualquiera que quiera explorar el mundo de las ruedas más compactas como la Inmotion V5F.",
 });
 producList.push({
   name: "Bicicleta",
   price: "$120",
-  image:
-    "https://http2.mlstatic.com/D_NQ_NP_990986-MLA53586520581_022023-O.webp",
+  image: "./assets/bike.png",
   description:
     "Licorne Bike Bicicleta de trekking prémium de 28 pulgadas, para hombres, jóvenes, mujeres y hombres, 21 velocidades, bicicleta de ciudad para hombre, Life M-V-ATB",
 });
 producList.push({
   name: "Motoneta",
   price: "$250",
-  image:
-    "https://media.istockphoto.com/id/1225448373/es/foto/kick-city-rider-bike-scooter-el%C3%A9ctrico-urbano-aislado-sobre-fondo-blanco-motocicleta-de-la.jpg?s=612x612&w=0&k=20&c=zcbplIeCpcNBYSr9xZj42Frvk4PB3enLv1VOHgmb238=",
+  image: "./assets/motorbike.png",
   description:
     "Better Angel HM Moto Eléctrica Infantil Scooter Eléctrico - Coche Triciclo Moto ​Eléctrica ​Infantil, Motocicleta Eléctrica para Niños, Moto Cross Scooter, Moto Eléctrica para Niños Motorbike",
 });
 producList.push({
   name: "Scooter electrico",
   price: "$200",
-  image:
-    "https://vendomarket.cl/wp-content/uploads/2021/08/108563-1-scaled-1.jpg",
+  image: "./assets/scooter.png",
   description:
     "Xiaomi Mi Electric Scooter Essential, 12 mph de Velocidad máxima, 12 Millas de Distancia de Viaje, 250 W de Potencia del Motor, versión Oficial del Reino Unido, Negro, Adulto",
 });
 producList.push({
   name: "Skate",
   price: "$200",
-  image:
-    "https://st4.depositphotos.com/3539679/23945/v/600/depositphotos_239454032-stock-illustration-skateboarding-vector-realistic-3d-black.jpg",
+  image: "./assets/skate.png",
   description:
     "Skateboard para Principiantes niños y Adultos 79 X 20 cm diseño Tigre, monopatín Completo de 9 Capas de Madera de Arce para niños y niñas con rodamientos ABEC-7 y Herramienta en T Animal Skateboards",
 });
 producList.push({
   name: "Rollers",
   price: "$350",
-  image:
-    "https://http2.mlstatic.com/D_NQ_NP_816691-MLA46990826237_082021-O.jpg",
+  image: "./assets/rollers.png",
   description:
     "Patines en línea y patín de Hielo, 2 en 1 Advance Ajustables y modificables RAVEN",
 });
 producList.push({
   name: "OneWheel",
   price: "$600",
-  image:
-    "https://static.fnac-static.com/multimedia/Images/ES/MC/2c/bd/80/8437036/1540-1/tsp20200703090731/Monociclo-Electrico-Kingsong-KS-16S-420-wh-blanco.jpg#e4db073f-0302-4eb4-aabf-817e45f10608",
+  image: "./assets/onewheel.png",
   description:
-    "Monociclo eléctrico KingSong 14D. Con un motor de 800w, alojado en una rueda de 14″ que puede superar los 25 km/h, la KingSong 14D es perfecta para principiantes que quieren crecer o para cualquiera que quiera explorar el mundo de las ruedas más compactas como la Inmotion V5F.",
+    "El monociclo eléctrico KingSong 14D ha resistido la prueba del tiempo como una rueda de nivel confiable que aún se mantiene firme frente a la competencia en la actualidad. Con un motor de 800w, alojado en una rueda de 14″ que puede superar los 25 km/h, la KingSong 14D es perfecta para principiantes que quieren crecer o para cualquiera que quiera explorar el mundo de las ruedas más compactas como la Inmotion V5F.",
+});
+producList.push({
+  name: "Bicicleta",
+  price: "$120",
+  image: "./assets/bike.png",
+  description:
+    "Licorne Bike Bicicleta de trekking prémium de 28 pulgadas, para hombres, jóvenes, mujeres y hombres, 21 velocidades, bicicleta de ciudad para hombre, Life M-V-ATB",
+});
+producList.push({
+  name: "Motoneta",
+  price: "$250",
+  image: "./assets/motorbike.png",
+  description:
+    "Better Angel HM Moto Eléctrica Infantil Scooter Eléctrico - Coche Triciclo Moto ​Eléctrica ​Infantil, Motocicleta Eléctrica para Niños, Moto Cross Scooter, Moto Eléctrica para Niños Motorbike",
+});
+producList.push({
+  name: "Scooter electrico",
+  price: "$200",
+  image: "./assets/scooter.png",
+  description:
+    "Xiaomi Mi Electric Scooter Essential, 12 mph de Velocidad máxima, 12 Millas de Distancia de Viaje, 250 W de Potencia del Motor, versión Oficial del Reino Unido, Negro, Adulto",
+});
+producList.push({
+  name: "Skate",
+  price: "$200",
+  image: "./assets/skate.png",
+  description:
+    "Skateboard para Principiantes niños y Adultos 79 X 20 cm diseño Tigre, monopatín Completo de 9 Capas de Madera de Arce para niños y niñas con rodamientos ABEC-7 y Herramienta en T Animal Skateboards",
+});
+producList.push({
+  name: "Rollers",
+  price: "$350",
+  image: "./assets/rollers.png",
+  description:
+    "Patines en línea y patín de Hielo, 2 en 1 Advance Ajustables y modificables RAVEN",
+});
+producList.push({
+  name: "OneWheel",
+  price: "$600",
+  image: "./assets/onewheel.png",
+  description:
+    "El monociclo eléctrico KingSong 14D ha resistido la prueba del tiempo como una rueda de nivel confiable que aún se mantiene firme frente a la competencia en la actualidad. Con un motor de 800w, alojado en una rueda de 14″ que puede superar los 25 km/h, la KingSong 14D es perfecta para principiantes que quieren crecer o para cualquiera que quiera explorar el mundo de las ruedas más compactas como la Inmotion V5F.",
+});
+producList.push({
+  name: "Bicicleta",
+  price: "$120",
+  image: "./assets/bike.png",
+  description:
+    "Licorne Bike Bicicleta de trekking prémium de 28 pulgadas, para hombres, jóvenes, mujeres y hombres, 21 velocidades, bicicleta de ciudad para hombre, Life M-V-ATB",
+});
+producList.push({
+  name: "Motoneta",
+  price: "$250",
+  image: "./assets/motorbike.png",
+  description:
+    "Better Angel HM Moto Eléctrica Infantil Scooter Eléctrico - Coche Triciclo Moto ​Eléctrica ​Infantil, Motocicleta Eléctrica para Niños, Moto Cross Scooter, Moto Eléctrica para Niños Motorbike",
+});
+producList.push({
+  name: "Scooter electrico",
+  price: "$200",
+  image: "./assets/scooter.png",
+  description:
+    "Xiaomi Mi Electric Scooter Essential, 12 mph de Velocidad máxima, 12 Millas de Distancia de Viaje, 250 W de Potencia del Motor, versión Oficial del Reino Unido, Negro, Adulto",
+});
+producList.push({
+  name: "Skate",
+  price: "$200",
+  image: "./assets/skate.png",
+  description:
+    "Skateboard para Principiantes niños y Adultos 79 X 20 cm diseño Tigre, monopatín Completo de 9 Capas de Madera de Arce para niños y niñas con rodamientos ABEC-7 y Herramienta en T Animal Skateboards",
+});
+producList.push({
+  name: "Rollers",
+  price: "$350",
+  image: "./assets/rollers.png",
+  description:
+    "Patines en línea y patín de Hielo, 2 en 1 Advance Ajustables y modificables RAVEN",
+});
+producList.push({
+  name: "OneWheel",
+  price: "$600",
+  image: "./assets/onewheel.png",
+  description:
+    "El monociclo eléctrico KingSong 14D ha resistido la prueba del tiempo como una rueda de nivel confiable que aún se mantiene firme frente a la competencia en la actualidad. Con un motor de 800w, alojado en una rueda de 14″ que puede superar los 25 km/h, la KingSong 14D es perfecta para principiantes que quieren crecer o para cualquiera que quiera explorar el mundo de las ruedas más compactas como la Inmotion V5F.",
+});
+producList.push({
+  name: "Bicicleta",
+  price: "$120",
+  image: "./assets/bike.png",
+  description:
+    "Licorne Bike Bicicleta de trekking prémium de 28 pulgadas, para hombres, jóvenes, mujeres y hombres, 21 velocidades, bicicleta de ciudad para hombre, Life M-V-ATB",
+});
+producList.push({
+  name: "Motoneta",
+  price: "$250",
+  image: "./assets/motorbike.png",
+  description:
+    "Better Angel HM Moto Eléctrica Infantil Scooter Eléctrico - Coche Triciclo Moto ​Eléctrica ​Infantil, Motocicleta Eléctrica para Niños, Moto Cross Scooter, Moto Eléctrica para Niños Motorbike",
+});
+producList.push({
+  name: "Scooter electrico",
+  price: "$200",
+  image: "./assets/scooter.png",
+  description:
+    "Xiaomi Mi Electric Scooter Essential, 12 mph de Velocidad máxima, 12 Millas de Distancia de Viaje, 250 W de Potencia del Motor, versión Oficial del Reino Unido, Negro, Adulto",
+});
+producList.push({
+  name: "Skate",
+  price: "$200",
+  image: "./assets/skate.png",
+  description:
+    "Skateboard para Principiantes niños y Adultos 79 X 20 cm diseño Tigre, monopatín Completo de 9 Capas de Madera de Arce para niños y niñas con rodamientos ABEC-7 y Herramienta en T Animal Skateboards",
+});
+producList.push({
+  name: "Rollers",
+  price: "$350",
+  image: "./assets/rollers.png",
+  description:
+    "Patines en línea y patín de Hielo, 2 en 1 Advance Ajustables y modificables RAVEN",
+});
+producList.push({
+  name: "OneWheel",
+  price: "$600",
+  image: "./assets/onewheel.png",
+  description:
+    "El monociclo eléctrico KingSong 14D ha resistido la prueba del tiempo como una rueda de nivel confiable que aún se mantiene firme frente a la competencia en la actualidad. Con un motor de 800w, alojado en una rueda de 14″ que puede superar los 25 km/h, la KingSong 14D es perfecta para principiantes que quieren crecer o para cualquiera que quiera explorar el mundo de las ruedas más compactas como la Inmotion V5F.",
 });
 
 function renderProducts(arr) {
